@@ -6,7 +6,7 @@
 	"KeyFilePath":"xxx.key",
 	"Router":[
 		{
-			"Src":"www.weforpay.com",
+			"Src":"www.xxx.com",
 			"Dst":"http://host:port"
 		}
 	]
